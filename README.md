@@ -54,6 +54,8 @@ To add functionality to your project, start a new application:
 ```bash
 python manage.py startapp myapp
 ```
+This will create a new directory called `myapp` with the basic structure for a Django application.
+
 
 ---
 
